@@ -1,2 +1,3 @@
-# cross-lingual-linking
-Code for our paper "A Comparison of Unsupervised Methods forAd hoc Cross-Lingual Document Retrieval" for the LREC workshop on Cross-lingual search and summarisation
+# Cross Lingual Linking
+Code for the experiments from our workshop paper "A Comparison of Unsupervised Methods for Ad-hoc Cross-Lingual Document Retrieval"
+https://www.aclweb.org/anthology/2020.clssts-1.6.pdf
