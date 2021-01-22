@@ -7,4 +7,7 @@ mltm.py
 ```
 This is an implementation of the Polylingual Topic Model (Mimno et al., 2009)
 
-
+```
+doc_linking.py
+```
+This contains the two embedding-based method for cross-lingual document retrieval: Wasserstein distance (Balikas et al., 2018) and Cr5 (Josifoski et al., 2019) 
